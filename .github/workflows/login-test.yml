@@ -1,4 +1,4 @@
-name: Login Tests
+name: Python Tests
 
 on:
   push:
